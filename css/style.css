@@ -1,0 +1,41 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.home{
+    background-image: url(../img/hlezTG.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.layout{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.col-md-5{
+    background-color: #e9bb92be;
+    
+}
+.col-md-6{
+    background-color: #e9bb92be;
+    
+}
+h1{
+    
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color: #F78812 ;
+}
+.fa-bookmark{
+    color: #8C3333;
+    font-size: x-large;
+
+}
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #d99c39;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem #fec26055;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
